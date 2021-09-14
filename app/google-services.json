@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "807792496452",
+    "firebase_url": "https://chat-apka-default-rtdb.firebaseio.com",
+    "project_id": "chat-apka",
+    "storage_bucket": "chat-apka.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807792496452:android:c448bc15de5e21f2c61111",
+        "android_client_info": {
+          "package_name": "com.example.chatspace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807792496452-7d0dqtesjliai7e4pq2lil1caitjgdc8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI-xPRZMHB4B8bswVXpf0_DYp7fB8PYOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807792496452-7d0dqtesjliai7e4pq2lil1caitjgdc8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
